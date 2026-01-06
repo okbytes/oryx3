@@ -130,7 +130,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
 
 // ---
 // custom qmk
-// ---
+// 
 // Shift 2 is {
 const key_override_t two_key_override = ko_make_basic(MOD_MASK_SHIFT, KC_2, KC_LCBR);
 // Shift 3 is (
