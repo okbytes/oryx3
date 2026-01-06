@@ -5,7 +5,7 @@
 #define RGB_MATRIX_VAL_STEP 20
 
 #define USB_SUSPEND_WAKEUP_DELAY 0
-#define SERIAL_NUMBER "vqzRO/QzmgAW"
+#define SERIAL_NUMBER "vqzRO/LvWgry"
 #define LAYER_STATE_8BIT
 
 #define TAPPING_TERM_PER_KEY
