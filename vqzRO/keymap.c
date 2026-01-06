@@ -30,7 +30,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 };
 
 
-const uint16_t PROGMEM combo0[] = { MT(MOD_LGUI, KC_COMMA), MT(MOD_LALT, KC_DOT), COMBO_END};
+const uint16_t PROGMEM combo0[] = { KC_J, KC_K, COMBO_END};
 
 combo_t key_combos[COMBO_COUNT] = {
     COMBO(combo0, KC_RIGHT_GUI),
